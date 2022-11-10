@@ -1,0 +1,18 @@
+.nav{
+    background-color: gold;
+    color: white;
+    font-size: 0.5cm;
+    padding: 20px;   
+}
+
+.texto{
+    color: black;
+    background-color: #FBF5C5;
+    padding: 50px;
+    width: 25%;
+    font-size: 25px;
+    margin: 20px;
+}
+.dad{
+    display: flex;
+}

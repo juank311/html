@@ -1,13 +1,21 @@
 h1{
-    color: red;
-    font-size: 100px;
+    color: violet;
+    background-color: aquamarine;
+    /* margin-left: 100px; /* izquierda */
+    /* margin-right: 200px; derecha */
+    /* margin-bottom: 200px; /* abajo 
+    margin-top: 200px;  arriba */
+    /* margin: 200px 100px; */ /* arriba y abajo */
+    margin: 100px 200px 20px 100px; /* arriba, derecha, abajo e izquierda */
+   /* PADDIN ES EL COLOR DE RELLENO DE LOS MARGENES */
+   padding: 100px;
 }
-#titulo_2{
+h2{
     color: blue;
-    font-size: 60px;
+    
 }
 
-.azul{
+p{
     color: green;
-    font-size: 20px;
+    
 }
